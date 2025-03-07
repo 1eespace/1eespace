@@ -1,7 +1,7 @@
 <h1> Hello👋 , I'm Evie </h1>
 <p>
-    Driven by curiosity and Growing every day.</br>  
-    — Crafting interactive experiences one line of code at a time    
+    Driven by curiosity, growing every day.</br>  
+    — Crafting interactive experiences, one line of code at a time    
 </p>
 
 ## 🚀 **About Me**
