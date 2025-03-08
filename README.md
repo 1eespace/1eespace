@@ -6,7 +6,7 @@
 
 ## 🚀 **About Me**
 
-- 🌍 Passionate Front-End Developer aspiring to create engaging, people-centered websites.
+- 🌍 Passionate Front-End Developer aspiring to create engaging, People-centered websites.
 - 🔍 A problem-solver who dives deep until solutions emerge.
 - ✨ A fast learner dedicated to mastering new technologies with diligence.
 
