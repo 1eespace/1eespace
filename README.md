@@ -6,7 +6,7 @@
 
 ## 🚀 **About Me**
 
-- 🌍 Passionate Front-End Developer aspiring to create engaging, People-centered websites.
+- 🌍 Passionate Software Developer aspiring to create engaging, People-centered websites.
 - 🔍 A problem-solver who dives deep until solutions emerge.
 - ✨ A fast learner dedicated to mastering new technologies with diligence.
 
@@ -19,6 +19,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
     <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" />
     <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" />
 </div>
 
 ## 📚 **Studying**
