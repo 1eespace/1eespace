@@ -10,7 +10,7 @@
 - 🔍 A problem-solver who dives deep until solutions emerge.
 - ✨ A fast learner dedicated to mastering new technologies with diligence.
 
-- 👩🏻‍💻 Studying Software Development at Monash University (Bachelor of IT).
+- 👩🏻‍💻 Studied Software Development at Monash University (Bachelor of IT).
 
 ## ⚙️ **Tech Stack**
 
